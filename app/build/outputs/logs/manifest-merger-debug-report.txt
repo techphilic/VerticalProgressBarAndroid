@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7bdcd5abb1a93688d0dbd1261a28c217/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bb9684da971cd5f58321ef98c1d57d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3fe63da81789287af961c4b0b1a15ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/95c2aafa27a7037f0d8483cbb933704c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/200c0eb0ee1a090bef706c4d8cdf93a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d3b57854626c174121b2a2eb59fe0264/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d2472c6f6644392a3e2e42c0498c1a21/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:2:5-57
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:6:5-19:19
+	android:label
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:7:9-45
+	android:theme
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.matrixplay.android.verticalprogressbar.MainActivity
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:12:13-56
+	android:name
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7bdcd5abb1a93688d0dbd1261a28c217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/7bdcd5abb1a93688d0dbd1261a28c217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bb9684da971cd5f58321ef98c1d57d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bb9684da971cd5f58321ef98c1d57d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3fe63da81789287af961c4b0b1a15ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3fe63da81789287af961c4b0b1a15ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/95c2aafa27a7037f0d8483cbb933704c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/95c2aafa27a7037f0d8483cbb933704c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/200c0eb0ee1a090bef706c4d8cdf93a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/200c0eb0ee1a090bef706c4d8cdf93a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d3b57854626c174121b2a2eb59fe0264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d3b57854626c174121b2a2eb59fe0264/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d2472c6f6644392a3e2e42c0498c1a21/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/amithooda/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d2472c6f6644392a3e2e42c0498c1a21/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amithooda/Blog/owngithubcode/VerticalProgressBarAndroid/app/src/main/AndroidManifest.xml
